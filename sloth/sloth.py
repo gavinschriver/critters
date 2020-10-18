@@ -1,5 +1,4 @@
 from datetime import date
-import sloth
 
 class Sloth:
     def __init__(self, name, species, shift, food):

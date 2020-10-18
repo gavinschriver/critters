@@ -1,6 +1,6 @@
 from datetime import date
 
-class Angler:
+class Pufferfish:
     def __init__(self, name, species, shift, food):
         self.name = name
         self.species = species
