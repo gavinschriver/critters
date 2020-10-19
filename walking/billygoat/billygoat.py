@@ -1,6 +1,6 @@
 from datetime import date
 
-class Copperhead:
+class Billygoat:
     def __init__(self, name, species, shift, food):
         self.name = name
         self.species = species
